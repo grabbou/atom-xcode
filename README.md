@@ -24,6 +24,7 @@ The current version is a proof of concept to demonstrate we can really hack Atom
 - [ ] Add `Xcode` menu item with all options available
 - [ ] Add build command
 - [ ] Improve terminal colors
+- [ ] Improve project detection and support Android as well
 - [ ] Add settings and make this configureable
 - [ ] Decouple from RN cli and ideally ship with own library
 - [ ] Support multiple projects opened in Atom (for now we take the first one)
