@@ -9,7 +9,7 @@
     "ios",
     "rnpm"
   ],
-  "repository": "https://github.com/grabbou/atom-react-native-xcode",
+  "repository": "https://github.com/grabbou/atom-xcode",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
