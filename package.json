@@ -1,7 +1,7 @@
 {
   "name": "atom-xcode",
   "main": "./lib/atom-xcode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React Native Xcode package",
   "keywords": [
     "react-native",
